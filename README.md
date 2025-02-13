@@ -3,6 +3,8 @@ In this project, I designed and implemented a security lab to simulate real-worl
 
 
 
+
+
 ## Phase 1: Configuring the Security Lab  
 
 ### Network Topology and Virtual Machine Setup  
@@ -13,7 +15,12 @@ The lab environment was built using VirtualBox, simulating an enterprise network
 - **Windows 11 Enterprise Client** – Representing an average business user machine.  
 - **Ubuntu Linux Client** – Simulating a development workstation.  
 - **SMTP Email Server (Postfix)** – Providing email communication for phishing simulations.  
-- **Kali Linux Attacker Machine** – Used for penetration testing and cyberattack simulations.  
+- **Kali Linux Attacker Machine** – Used for penetration testing and cyberattack simulations.
+
+  
+
+![image](https://github.com/user-attachments/assets/0d1c5f23-6856-4c8f-bdf8-685d378c37ab)
+
 
 ### Provisioning Virtual Machines  
 Each VM was provisioned with the appropriate operating system and configured according to its role in the lab. The security server was set up to monitor activities, and network configurations were designed to facilitate both attack and defense scenarios.  
@@ -35,6 +42,9 @@ These vulnerabilities provided an ideal environment to test both offensive secur
 
 
 ## Phase 3: Simulating a Cyberattack  
+
+![image](https://github.com/user-attachments/assets/1effc8eb-c865-4801-882f-e57a312b3f8c)
+
 
 ### Reconnaissance and Initial Access  
 Using **Nmap**, I conducted network scans to identify open ports and active services. I discovered that SSH and RDP were exposed, providing possible attack vectors.  
