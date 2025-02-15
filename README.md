@@ -90,9 +90,9 @@ To further enhance security, I implemented **automated responses** using Wazuhâ€
 
 
 ## Conclusion  
-This project provided an end-to-end view of cybersecurity, covering both offensive and defensive aspects. Through vulnerability exploitation, lateral movement, and data exfiltration, I was able to demonstrate how attackers operate. On the defensive side, deploying Wazuh SIEM showcased how modern security solutions detect and mitigate threats in real time.  
+This project gave me an introductory look into cybersecurity, touching on both offensive and defensive aspects. By exploring vulnerability exploitation, lateral movement, and data exfiltration, I got a glimpse into how attackers operate. On the defensive side, setting up Wazuh SIEM helped me understand how security solutions detect and respond to threats in real time.
 
-Moving forward, I plan to refine this lab by testing advanced adversary techniques and improving automated detection strategies. This hands-on experience has significantly strengthened my understanding of enterprise security operations.  
+As I continue learning, I want to dive deeper into each stage, breaking down individual techniques and improving my understanding of both attack methods and defense strategies. This hands-on experience has been a great starting point, and Iâ€™m excited to explore cybersecurity in more detail.
 
 
 
